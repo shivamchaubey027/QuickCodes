@@ -4,6 +4,6 @@ Hey there! 👋 This is my little corner of the web where I showcase my journey 
 
 Feel free to explore, give feedback, or just say hi! 🚀
 
-![To Do Interface ](https://github.com/username/repo/blob/main/images/Todo.png)
+![To Do Interface ](https://github.com/shivamchaubey027/QuickCodes/blob/main/images/Todo.png)
  
-![Weather App Interface ](https://github.com/username/repo/blob/main/images/Weather.png)
+![Weather App Interface ]([https://github.com/username/repo/blob/main/images/Weather.png](https://github.com/shivamchaubey027/QuickCodes/blob/main/images/Weather.png))
